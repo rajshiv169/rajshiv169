@@ -1,1 +1,1 @@
-<img src="https://multi-vendor.s3.ap-south-1.amazonaws.com/Background.png" width="100%">
+<img src="/readme_assets/rajshiv169.png" width="100%">
